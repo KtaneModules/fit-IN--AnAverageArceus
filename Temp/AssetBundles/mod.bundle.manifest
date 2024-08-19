@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+CRC: 1833137186
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 193fa49af1056afc041a198d15005348
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bab7dd2a38cb14c337dc022a049cb93c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1cfb889a07d5fd4e9baed7960bb397f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 857d090d1c4130f4fb4adfb6524b3b5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 180c6c8e7fc5efd4d8b13e58c0378e60, type: 3}
+- Class: 114
+  Script: {fileID: -1675560866, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: 2144496390, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: -119419473, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: -1005838349, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: 1702003387, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: -381104716, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/SFX/PIECE L.wav
+- Assets/SFX/PIECE Z.wav
+- Assets/SFX/COOL.wav
+- Assets/SFX/FULL CLEAR.wav
+- Assets/SFX/CLEAR2.wav
+- Assets/SFX/PIECE T.wav
+- Assets/SFX/PIECE O.wav
+- Assets/SFX/LOCK.wav
+- Assets/SFX/RANK UP.wav
+- Assets/SFX/diff select.wav
+- Assets/SFX/ready.wav
+- Assets/fitting in but worse.prefab
+- Assets/SFX/CLEAR3.wav
+- Assets/SFX/PIECE J.wav
+- Assets/SFX/EMPTY.wav
+- Assets/SFX/PIECE S.wav
+- Assets/SFX/BGM/Level 4.mp3
+- Assets/SFX/BGM/Level 1.mp3
+- Assets/SFX/BGM/Menu.mp3
+- Assets/SFX/BGM/Level 3.mp3
+- Assets/SFX/TIME UP.wav
+- Assets/SFX/select.wav
+- Assets/SFX/TIME LOW.wav
+- Assets/SFX/NEW LEVEL.wav
+- Assets/SFX/BGM/Level 2.mp3
+- Assets/SFX/BGM/Level 5.mp3
+- Assets/SFX/PLACE.wav
+- Assets/SFX/go.wav
+- Assets/SFX/PIECE I.wav
+- Assets/SFX/CLEAR1.wav
+- Assets/SFX/BGM/Level 6.mp3
+- Assets/SFX/LAST PIECE.wav
+Dependencies: []
